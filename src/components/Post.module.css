@@ -11,3 +11,11 @@
   letter-spacing: -0.24px;
   margin: 0 0 8px;
 }
+.button{
+  font-size:12px;
+  color: blue;
+
+}
+.input{
+  color:gray;
+}
